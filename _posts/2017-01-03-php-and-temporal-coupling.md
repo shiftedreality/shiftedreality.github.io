@@ -3,6 +3,10 @@ layout: post
 title:  "PHP and Temporal Coupling"
 date:   2017-01-03 19:15:24 +0200
 categories: php
+tags:
+- php
+- mvc
+- di
 ---
 About the architecture of applications in PHP it was written more than a dozen items, but on this issue, more than emphasize the designers of Java and C #. Its essence lies in the rigid dependence of the properties on the other.
 
