@@ -19,8 +19,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Personal Tech Blog about PHP, JavaScript and Magento 2.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
 github_username:  shiftedreality
+linkedin_username:  olegposyniak
+facebook_username:  oleh.posyniak
 
 # Build settings
 markdown: kramdown
