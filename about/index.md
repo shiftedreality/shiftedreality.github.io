@@ -9,5 +9,5 @@ comments: false
 modified: 2016-02-01
 ---
 
-My name is Oleh. I'm developer from Kyiv. Here is my tiny blog about PHP, JavaScript and another cool stuff.
+I'm passioante developer from Kyiv. You're viewing my tiny blog about PHP, JavaScript and another cool stuff.
 Please feel free to contact me via links below.
