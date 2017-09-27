@@ -21,3 +21,8 @@ The command "./some_script.sh" failed and exited with 126 during .
 This error happens if you do not have executable bit on your script
 
 `chmod +x some_script.sh` should fix this error
+
+# Environment variables
+
+To be able to use environment variables in your scripts, you need to click
+`More options -> Settings` in Travis interface and add it.
