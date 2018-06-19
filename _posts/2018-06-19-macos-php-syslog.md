@@ -25,6 +25,8 @@ To use it let'c create Monolog object and configure handler:
     );
 ```
 
+# Console
+
 Once you configure this handler, open `Console` application and filter by:
 - `library`: php
 
