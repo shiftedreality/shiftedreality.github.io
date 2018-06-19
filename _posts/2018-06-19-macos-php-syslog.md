@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Writing logs to syslog with PHP and Monolog on Mac OS"
-date:   2017-01-03 19:15:24 +0200
+date:   2018-06-19 15:00:00 -0500
 categories: php
 tags:
 - php
