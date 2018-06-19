@@ -33,3 +33,7 @@ Once you configure this handler, open `Console` application and filter by:
 You will see something like this:
 
 ![Console]({{ "/assets/images/syslog.png" }})
+
+** Note
+
+If you do not see debug messages, go to `Action -> Enable Debug Messages`
