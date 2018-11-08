@@ -14,7 +14,7 @@ On Mac OS it's also present and we can use it.
 
 # Monolog
 
-Syslog implementation exists as part of [Sysloh Handler](https://github.com/Seldaek/monolog/blob/master/src/Monolog/Handler/SyslogHandler.php)
+Syslog implementation exists as part of [Syslog Handler](https://github.com/Seldaek/monolog/blob/master/src/Monolog/Handler/SyslogHandler.php)
 
 To use it let'c create Monolog object and configure handler:
 
