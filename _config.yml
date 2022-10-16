@@ -1,6 +1,6 @@
-title:            Oleh Posyniak's Blog | Let there be PHP
+title:            Oleg Posyniak's tech blog
 description:      Describe your website here.
-disqus_shortname: 
+disqus_shortname:
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -9,34 +9,34 @@ url: https://shiftedreality.dev
 
 # Owner/author information
 owner:
-  name:           Oleh Posyniak
+  name:           Oleg Posyniak
   avatar:         avatar.jpg
-  bio:            "My name is Oleh. I'm developer from Kyiv. Here is my tiny blog about PHP, JavaScript and another cool stuff."
+  bio:            "My name is Oleg. I'm developer from Kyiv. It is my coy blog about PHP, JavaScript and other cool stuff."
   email:          oleg.posyniak@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:
   facebook:       oleh.posyniak
   github:         shiftedreality
   stackexchange:
-  linkedin:       olegposyniak
+  linkedin:       shiftedreality
   instagram:      shiftedreality
-  flickr:         
-  tumblr:         
+  flickr:
+  tumblr:
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
 # Background image to be tiled on all pages
-background: 
+background:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-78760290-2
 google_verify:      qUERxcG7bUlCy9kspgqiysB6PUp68FZHs8--rqxqzBA
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Kiev
-future:      false  # publish future dated posts --  true, false (default) 
+future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
 gems:
@@ -62,9 +62,9 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-include: 
+include:
   - .htaccess
-exclude: 
+exclude:
   - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -88,3 +88,6 @@ exclude:
   - spec
   - tmp
   - vendor
+
+plugins:
+  - jekyll-paginate
