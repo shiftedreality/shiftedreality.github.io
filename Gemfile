@@ -1,10 +1,4 @@
 source "https://rubygems.org"
 
-gem "json"
-gem "jekyll"
-gem "jekyll-sitemap"
-gem "jekyll-feed"
-gem "jekyll-paginate"
-gem "jekyll-gist"
-
-gem "webrick", "~> 1.7"
+gem "github-pages"
+gem "webrick"
