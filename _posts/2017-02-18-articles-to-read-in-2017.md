@@ -2,7 +2,7 @@
 layout: post
 title:  "Articles to read in 2017"
 date:   2017-02-18 10:04:24 +0200
-categories: php
+categories: it-ai
 tags:
 - php
 - js

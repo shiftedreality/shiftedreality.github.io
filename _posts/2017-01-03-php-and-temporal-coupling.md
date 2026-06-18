@@ -2,7 +2,7 @@
 layout: post
 title:  "PHP and Temporal Coupling"
 date:   2017-01-03 19:15:24 +0200
-categories: php
+categories: it-ai
 tags:
 - php
 - mvc

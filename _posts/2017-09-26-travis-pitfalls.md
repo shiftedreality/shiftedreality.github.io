@@ -2,7 +2,7 @@
 layout: post
 title:  "Travis CI pitfalls"
 date:   2017-09-26 11:21:24 +0200
-categories: php
+categories: it-ai
 tags:
 - travis
 - travis ci

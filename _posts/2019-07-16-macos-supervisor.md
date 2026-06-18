@@ -2,7 +2,7 @@
 layout: post
 title:  "Installing supervisor on Mac OS"
 date:   2019-07-16 15:34:00 -0500
-categories: php
+categories: it-ai
 tags:
 - supervisor
 - unix

@@ -2,7 +2,7 @@
 layout: post
 title:  "Writing logs to syslog with PHP and Monolog on Mac OS"
 date:   2018-06-19 15:00:00 -0500
-categories: php
+categories: it-ai
 tags:
 - php
 - syslog

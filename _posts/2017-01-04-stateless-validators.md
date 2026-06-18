@@ -2,7 +2,7 @@
 layout: post
 title:  "Stateless validators"
 date:   2017-01-04 12:19:24 +0200
-categories: php
+categories: it-ai
 tags:
 - php
 - mvc
