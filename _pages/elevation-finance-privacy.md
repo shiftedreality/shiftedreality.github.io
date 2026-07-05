@@ -36,4 +36,4 @@ The developers reserve the right to update this policy, with continued app use i
 
 ## Contact
 
-Questions may be directed through [linktr.ee/elevation.finance](https://linktr.ee/elevation.finance).
+Questions may be directed to [oleg.posyniak@gmail.com](mailto:oleg.posyniak@gmail.com).
