@@ -4,6 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in paginator.posts %}
+    {% if post.categories contains "finance-investing" %}{% continue %}{% endif %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
