@@ -2,8 +2,6 @@
 
 Source for [shiftedreality.dev](https://shiftedreality.dev) — Oleg Posyniak's personal blog, covering **tech & AI** and **finance & investing**. Built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub Pages.
 
-The theme is a heavily customized fork of [Reverie](https://github.com/amitmerchant1990/reverie) by Amit Merchant (see [LICENSE](LICENSE)).
-
 ## Structure
 
 - `_posts/` — blog posts (Markdown, front matter sets `categories: it-ai` or `categories: finance-investing`)
@@ -30,4 +28,4 @@ Push to `main`; GitHub Pages builds and deploys automatically.
 
 ## License
 
-MIT, inherited from the original [Reverie](https://github.com/amitmerchant1990/reverie) theme — see [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE).
