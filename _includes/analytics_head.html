@@ -1,10 +1,27 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7051627952481422" crossorigin="anonymous"></script>
 {% if site.google_analytics_ga4 %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_ga4 }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics_ga4 }}');
-      </script>
+<script>
+  (function () {
+    var loaded = false;
+
+    function loadAnalytics() {
+      if (loaded) return;
+      loaded = true;
+
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () { window.dataLayer.push(arguments); };
+      window.gtag('js', new Date());
+      window.gtag('config', '{{ site.google_analytics_ga4 }}');
+
+      var script = document.createElement('script');
+      script.async = true;
+      script.src = 'https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_ga4 }}';
+      document.head.appendChild(script);
+    }
+
+    ['pointerdown', 'keydown'].forEach(function (eventName) {
+      window.addEventListener(eventName, loadAnalytics, { once: true, passive: true });
+    });
+    window.setTimeout(loadAnalytics, 8000);
+  }());
+</script>
 {% endif %}
