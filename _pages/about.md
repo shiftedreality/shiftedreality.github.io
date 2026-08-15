@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Hi, I'm Oleg Posyniak
 
-Engineering leader based in **Austin, Texas** with 13+ years of experience building cloud platforms and AI-powered products. Currently at **Adobe**, where I work on commerce infrastructure, extensibility, and AI integration.
+Engineering leader based in **Austin, Texas** with 13+ years of experience building cloud platforms and AI-powered products.
 
 I write about two things I'm deeply invested in: **technology** and **finance**. On the tech side — cloud architecture, AI, software engineering practices. On the finance side — investing, markets, and building wealth intelligently.
 
@@ -14,13 +14,12 @@ I write about two things I'm deeply invested in: **technology** and **finance**.
 
 ## What I Do
 
-At Adobe I lead engineering teams building the future of commerce — from B2B storefronts to AI-powered experiences and App Builder extensibility. Previously I've worked across Kyiv, Hanoi, and Austin in roles spanning engineering leadership and platform development.
+I lead engineering teams working on cloud platforms and AI-powered experiences. Previously I've worked across Kyiv, Hanoi, and Austin in roles spanning engineering leadership and platform development.
 
 ---
 
 ## Publications
 
-- [Boosting Extensibility of Adobe Commerce with App Builder](https://developer.adobe.com/commerce/) — Adobe Tech Blog, 2023
 - [PHP and Temporal Coupling](https://habr.com/) — Habrahabr, 2016
 
 ---
