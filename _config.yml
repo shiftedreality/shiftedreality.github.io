@@ -20,25 +20,8 @@ avatar: /images/avatar.jpeg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: oleg.posyniak@gmail.com
-  facebook: oleg.posyniak
-  flickr:
   github: shiftedreality
-  instagram:
   linkedin: shiftedreality
-  pinterest:
-  rss: rss
-  twitter:
-  stackoverflow:
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole:
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics_ga4: G-5Z3BVH4GL0
@@ -77,17 +60,9 @@ kramdown:
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
-# Use the following plug-ins
+# SEO metadata for the landing page
 plugins:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
-  - jekyll-paginate
-
-include: ['_pages']
-
-paginate: 6
-paginate_path: /page:num/
 
 # Exclude these files from your production _site
 exclude:
